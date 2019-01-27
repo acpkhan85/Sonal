@@ -18,5 +18,11 @@ namespace ConsoleApp1
         {
             Console.WriteLine(a + b);
         }
+
+        static void substractNumber(int a, int b)
+        {
+            Console.WriteLine(a + b);
+        }
+
     }
 }
